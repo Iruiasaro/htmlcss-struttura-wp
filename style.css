@@ -12,3 +12,10 @@ header {
     margin-top: 10px;
 }
 
+footer {
+    width: 60%;
+    height: 40px;
+    background-color: rgb(159, 96, 214);
+    margin: auto;
+    margin-top: 10px;
+    }
