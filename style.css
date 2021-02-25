@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(222, 142, 223);
+    height: 70px;
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+}
+
